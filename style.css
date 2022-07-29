@@ -8,6 +8,10 @@
     .slide-caption{
         width: 100%;
     }
+    .course-image{
+        width: 335px;
+        height: 224px;
+    }
 }
 @media  screen and (min-width:750px) and (max-width: 850px) {
     .slide-image{
